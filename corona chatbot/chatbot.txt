@@ -1,0 +1,441 @@
+A handbook for journalists 1
+Introduction
+The Novel Coronavirus (2019-nCoV) was first identified in Wuhan, China, in December 2019.
+By the end of March 2020, 205 countries had reported cases of Covid-19, the disease caused
+by the virus, with about 700,000 cases of infection and 33,000 deaths across the world[1]
+.
+In India, the first case of 2019-nCoV was reported in Kerala in the last week of January 2020.
+Since then, about 1353 cases have been reported from 27 States and Union Territories.[2]
+ The State
+of Tamil Nadu has reported more than 300 cases and 110 samples were under investigation[3]
+at the time of writing. In Kerala, about 290 people are infected while 120,000 others are under
+observation.[4]
+The 2019 n-CoV poses a potential threat to children, families and communities at large. There are
+direct health implications of the virus infection itself, as well as the risk of secondary morbidity and
+mortality, inevitable disruption of basic services such as health, education and social protection
+programmes, and severe impact on the economy and livelihoods of the marginalised people. The
+total lockdown for 21 days announced by the Government of India had created fear, panic, anxiety
+and stress among children and parents.
+In order to reduce the spread of infection, it is essential to provide correct information and dispel
+myths, misconceptions and misleading facts while encouraging social distancing, promoting
+personal and hand hygiene and prompting the seeking of treatment for flu-like symptoms.
+The media and other concerned agencies carry the important responsibility of appropriate risk
+communication.
+The media can play a significant role in raising awareness, dispelling myths and exposing misleading
+information, as well as in promoting kindness, preventing stigmatisation and infusing confidence
+among the people by disseminating fair and accurate reports. It can also contribute to creating a
+positive atmosphere by putting out stories of effective coping and recovery.
+This handbook for journalists, brought out jointly by the UNICEF Office for Tamil Nadu &
+Kerala and the Press Institute of India, Chennai, is an attempt to empower journalists (editors and
+reporters) to help India beat COVID-19 through well-thought-out, researched and responsible
+articles and feature stories.
+Note: This handbook is oriented specifically to the Novel Coronavirus pandemic. The basic
+concepts, however, can be used as a blueprint, with appropriate modifications, for covering
+any health issue that affects large sections of society.
+1 As per WHO Sitrep 70
+2 MOHFW, GOI, as on 31 March 2020,
+3 Stopcoronatn.in
+4 The Economic times, 26 March at 7:45 pm
+4 Coronavirus Disease (COVID-19) Pandemic
+Chapter 1
+Understanding the
+Novel Coronavirus
+To report effectively on any subject, a thorough understanding of the subject is imperative. In
+this case, at the heart of the matter lies a virus.
+A virus can generate so much news – community outbreak, cancellation of events, celebrities
+falling ill, Sensex collapse, and so on and so forth. Journalists are professionally oriented to track
+such developments and report on them. The steps to take to avoid getting infected by the virus,
+the symptoms of infection, how to prepare the family to deal with an emergency, whom to contact
+for services, etc are also good subjects for feature stories.
+Readers and viewers want to know that what they are getting is immediate, relevant and accurate
+information, which will help them manage risks and cope with the situation. Therefore, it is
+essential that journalists have a correct understanding of the entire issue and all its implications.
+Here is a brief outline, in question-and-answer form, to get you started:
+What is the Novel Coronavirus?
+The Novel Coronavirus (CoV) is a new strain of the Coronavirus. The disease caused by it,
+first identified in Wuhan, China, has been named Coronavirus Disease 2019 (COVID-19)  –
+‘CO’ stands for Corona, ‘VI’ for Virus, and ‘D’ for Disease. The virus is referred to as 2019 Novel
+Coronavirus or 2019-nCoV.
+The2019-nCoV is a part of the same family of viruses as the ones which cause Severe Acute
+Respiratory Syndrome (SARS) and even some types of the common cold.
+The World Health Organization (WHO) has declared COVID-19 to be a pandemic[1]
+.
+Characterising COVID-19 as a pandemic is not an indication that the virus has become deadlier.
+Rather, it’s an acknowledgement of the geographical spread of the disease.
+What are the symptoms of COVID-19 and how does the virus spread?
+Symptoms can include fever, dry cough, a runny nose, fatigue and difficulty in breathing. Some
+may display very mild symptoms or no symptoms at all. In more severe cases, infection can cause
+pneumonia, grievous illness, and even death. Older people, and those with underlying medical
+problems are at a higher risk of developing serious illness.
+1 A ‘pandemic’ generally refers to an epidemic that has spread on a more global scale, affecting large numbers of people. Exactly
+when enough places have enough infections to declare one isn’t a black-and-white decision. But generally, the WHO is looking for
+sustained outbreaks in different continents. An ‘epidemic’ is a large outbreak, one that spreads among a population or region. An
+‘outbreak’ is a sudden rise in cases of a disease in a particular place.
+A handbook for journalists 5
+The symptoms of COVID-19 are similar to those of the flu (influenza) or the common cold, which
+are a lot more prevalent. This is why testing is required to confirm that someone has COVID-19.
+Like other Coronaviruses, the Novel Coronavirus, too, is transmitted through direct contact
+with respiratory droplets of an infected person (generated through coughing and sneezing), and
+touching surfaces contaminated with the virus.
+How can the virus be prevented from spreading?
+It’s important to remember that key preventive measures for all the Coronavirus-linked diseases
+are the same – frequent hand-washing and respiratory hygiene (covering your cough or sneeze
+with a flexed elbow or tissue, then disposing of the tissue in a closed bin).
+The COVID-19 virus may survive on surfaces for several hours, but simple disinfectants can kill
+it.
+Also, there is a vaccine for the flu – so remember to keep yourself and your child up-to-date with
+vaccinations. 
+In brief, to avoid the risk of transmission, people should:
+•	 Wash their hands frequently using an alcohol-based hand rub or soap and water.
+•	 Cover their mouth and nose when coughing or sneezing.
+•	 Avoid close contact with anyone who has a fever and cough.
+•	 Seek medical care early if they have fever, cough and difficulty breathing.
+•	 Share previous travel history with their healthcare provider.
+6 Coronavirus Disease (COVID-19) Pandemic
+Chapter 2
+Fact check
+As with other diseases, there are a lot of myths and incomplete or inaccurate information being
+bandied about regarding the Novel Coronavirus, especially as it is a new disease. Journalists,
+who are under pressure during the crisis to come out with reports in various branches of the media
+on the evolving situation, are in danger of falling into the trap of disseminating such myths and
+inaccuracies as ‘facts’. Before putting out articles, features, reports or audio-visual programmes,
+use the ready reckoner of Frequently Asked Questions below as a cheat sheet to quickly identify
+whether the information you have is authentic and endorsed by reliable authorities.
+1. Can cold weather and snow kill the Novel Coronavirus?
+There is no reason to believe that cold weather can kill the Novel Coronavirus and linked
+diseases. The normal human body temperature remains around 36.5°C to 37°C, regardless
+of the external temperature or weather. The most effective way to protect yourself against
+the Novel Coronavirus is by frequently cleaning your hands with an alcohol-based hand rub
+or washing them with soap and water.
+2. Does taking a hot bath prevent COVID-19?
+Taking a hot bath will not prevent you from catching COVID-19. Your normal body
+temperature remains around 36.5°C to 37°C, regardless of the temperature of your bath
+or shower. Actually, taking a hot bath with extremely hot water can be harmful, as it can 
+A handbook for journalists 7
+burn you. The best way to protect yourself against COVID-19 is by frequently cleaning
+your hands. By doing this you eliminate viruses that may be on your hands, and thus avoid
+infection that could happen when you touch your eyes, mouth and nose.
+3. Can the Novel Coronavirus be transmitted through goods manufactured in
+China or any country reporting COVID-19 cases?
+Even though the NovelCoronavirus can stay on surfaces for a few hours or up to several days
+(depending on the type of surface), it is very unlikely that the virus will persist on a surface
+after being transported over long distances and exposed to different weather conditions
+and temperatures. If you think a surface may be contaminated, use a disinfectant to clean
+it. After touching it, clean your hands with an alcohol-based hand rub or wash them with
+soap and water.
+4.	 Is the Novel Coronavirus transmitted through mosquito bites?
+To date, there has been no information or evidence to suggest that the NovelCoronavirus
+could be transmitted by mosquitoes. It is a respiratory virus which spreads primarily
+through droplets generated when an infected person coughs or sneezes, or through droplets
+of saliva or discharge from the nose. To protect yourself, clean your hands frequently with
+an alcohol-based hand rub or wash them with soap and water. Also, avoid close contact with
+anyone who is coughing and sneezing.
+8 Coronavirus Disease (COVID-19) Pandemic
+5.	 Are hand-dryers effective in killing the Novel Coronavirus?
+No, hand-dryers are not effective in killing the 2019-nCoV. To protect yourself against the
+Novel Coronavirus, you should frequently clean your hands with an alcohol-based hand
+rub or wash them with soap and water. Once your hands are clean, dry them thoroughly by
+using paper towels or a warm air-dryer.
+6.	 Can an ultraviolet disinfection lamp kill the Novel Coronavirus?
+UV lamps should not be used to sterilise hands or other areas of skin as UV radiation can
+cause skin irritation.
+7. How effective are thermal scanners in detecting people infected with the Novel
+Coronavirus?
+Thermal scanners are effective in detecting people who have developed a fever (those
+who have a higher than normal body temperature) because of the 2019-nCoV infection.
+However, they cannot detect people who are infected but do not as yet have an elevated
+temperature. This is because it takes between two and ten days for people who are infected
+to become sick and develop a fever.
+A handbook for journalists 9
+8. Can spraying alcohol or chlorine all over your body kill the Novel Coronavirus?
+No, spraying alcohol or chlorine all over your body will not kill viruses that have already
+entered your body. Spraying such substances can be harmful to clothes and mucous
+membranes (eyes, mouth). Be aware that both alcohol and chlorine can be useful to disinfect
+surfaces, but they need to be used as per appropriate recommendations.
+9. Can pets spread the Novel Coronavirus?
+At present, there is no evidence that companion animals/ pets such as dogs or cats can be
+infected with the Novel Coronavirus. However, it is always a good idea to wash your hands
+with soap and water after contact with pets. This protects you against various common
+bacteria such as E. coli and Salmonella that can pass between pets and humans.
+10. Do vaccines against pneumonia protect you against the Novel Coronavirus?
+No, vaccines against pneumonia, such as the pneumococcal vaccine and Haemophilus
+Influenza Type B (Hib) vaccine, do not provide protection against the Novel Coronavirus. 
+10 Coronavirus Disease (COVID-19) Pandemic
+The virus is so new and different that it needs its own vaccine. Researchers are trying to
+develop a vaccine against 2019-nCoV, and WHO is supporting their efforts. Although
+existing vaccines are not effective against 2019-nCoV, vaccination against respiratory
+illnesses is highly recommended to protect your health.
+11. Can regularly rinsing your nose with a saline solution help prevent 2019-nCoV
+infection?
+No, there is no evidence that regularly rinsing the nose with saline water has protected
+people from infection with the Novel Coronavirus.  There is some limited evidence that
+regularly rinsing nose with a saline solution can help people recover more quickly from
+the common cold. However, regularly rinsing the nose has not been shown to prevent
+respiratory infections.
+12. Can eating garlic help prevent 2019-nCoV infection?
+Garlic is a healthy food that may have some antimicrobial properties. However, there is
+no evidence from the current outbreak that eating garlic protects people from the New
+Coronavirus.
+A handbook for journalists 11
+13. Does the New Coronavirus affect only older people, or are younger people also
+susceptible?
+People of all ages can be infected by the Novel Coronavirus. Older people, and people with
+pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more
+likely to become severely ill after contracting the virus.  WHO advises people of all ages
+to take steps to protect themselves from the virus; for example, by following good hand
+hygiene and good respiratory hygiene.
+14. Are antibiotics effective in preventing and treating the New Coronavirus?
+No, antibiotics do not work against viruses, only bacteria. The 2019-nCoV is a virus and,
+therefore, antibiotics should not be used as a means of prevention or treatment. However,
+if you are hospitalised for the 2019-nCoV, you may receive antibiotics because bacterial coinfection is possible.
+15. Are there any specific medicines to prevent or treat the Novel Coronavirus?
+To date, there is no specific medicine recommended to prevent or treat the NovelCoronavirus.
+However, those infected with the virus should receive appropriate care to relieve and treat
+symptoms, and those with severe illness should receive optimized supportive care. Some
+specific treatments are under investigation and will be tested through clinical trials. WHO
+is working with a range of partners to accelerate research and development efforts.
+12 Coronavirus Disease (COVID-19) Pandemic
+Chapter 3
+Different perspectives
+Straightforward, accurate reports backed by statistics is a given in times of crises such as this.
+But apart from the general, comprehensive reportage, there are various angles of the problem
+that need to be explored and brought to light, various groups with special needs which have to
+be addressed. Here are some layers that journalists can explore during the COVID-19 pandemic.
+The mind matters
+Physical ill-health is the most direct and obvious fallout of being infected with the Novel
+Coronavirus. But mental health is also compromised, as an indirect fallout. Much attention is
+being devoted to this aspect, and it offers scope for meaningful reportage. The effect of the disease
+on the mental health of the public hinges on the stress that it has created. An understanding of
+the stressors will help journalists generate articles and programmes which can be of significant
+impact.
+Specific stressors particular to COVID-19 outbreak include:
+(a) risk of being infected and infecting others, especially if the transmission mode of COVID-19
+is not 100 per cent clear.
+(b) the fact that common symptoms of other health problems (a fever, for instance) can be
+mistaken for COVID-19 and lead to fear of being infected.
+(c) worry over children being at home alone (due to school closures) without appropriate care
+and support.
+(d) risk of deterioration of physical and mental health of vulnerable individuals; for example
+children, older adults and people with disabilities, if caregivers are placed in quarantine and
+other care and support is not in place.
+(e) potential consequences of measures to contain the virus on people’s livelihoods – this
+applies as much to the common man as to heads of organisations and also governments.   
+Specially vulnerable groups – women and children
+When it comes to health issues, women and children fall under the more susceptible categories.
+They have to be seen through different lenses when portraying the effect of COVID-19. Journalists
+reporting from the ground can take ideas to generate women- and child-oriented stories from the
+following questions and answers: 
+A handbook for journalists 13
+1. Is it safe for mothers to breastfeed their babies if they are infected or suspect
+that they are infected with 2019-nCoV?  
+Mothers in affected and at-risk areas with symptoms of fever, cough or difficulty breathing
+should seek medical care early, and follow instructions from a healthcare provider.
+Considering the benefits of breastfeeding and the insignificant role of breastmilk in
+transmission of other respiratory viruses, the mother could continue breastfeeding. 
+However, precautions should be taken, as there is a risk of transmission from mother to
+infant through respiratory droplets and direct contact, as well as indirectly through contact
+with contaminated surfaces. These precautions include wearing a mask when feeding
+the child, washing hands before and after feeds, and cleaning/ disinfecting contaminated
+surfaces.  If a mother is too ill, she should be encouraged to express milk and give it to
+the child via a clean cup and/or spoon – all while following the same infection prevention
+methods. 
+2. Can pregnant women pass the Coronavirus to unborn children?  
+At this time, there is not enough evidence to determine whether the virus is transmitted
+from a mother to her baby during pregnancy and delivery. Nor is there conclusive evidence
+regarding the potential impact this may have on the baby. All pregnant women should be
+advised to follow appropriate precautions to protect themselves from exposure to the virus,
+closely monitor themselves for symptoms of COVID-19 and seek advice from the nearest
+designated facility throughout the course of the pregnancy.  
+3. Does COVID-19 affect children?
+This is a new virus and we do not know enough yet about how it affects children or pregnant
+women. We know it is possible for people of any age to be infected with the virus, but so
+far there have been relatively few cases of COVID-19 reported among children. The virus is
+fatal in rare cases, so far mainly among older people with pre-existing medical conditions.
+4. How can a parent or caregiver support a child to learn at home if schools are
+closed?
+Parents and caregivers should be prepared to support their children to continue to learn
+at home, including by reading, learning through play, working together on assignments
+shared by schools, and supporting safe engagement with online learning platforms where
+available, as well as by tuning in to educational radio and TV programmes.
+5. What should parents and caregivers know about online or remote learning?
+UNICEF is supporting online and remote learning in coordination with national
+governments and other local partners. It is important to: 
+14 Coronavirus Disease (COVID-19) Pandemic
+•	 Engage actively in children’s learning – Use technology as one component of a
+learning experience that includes human interaction, recognising that technology
+alone cannot replace teachers or parental presence and guidance. This is especially true
+for younger children.
+•	 Protect children’s data – Parents and caregivers should check the digital resources
+children are accessing and protect them from those that do not seem safe or that require
+detailed personal information. Children’s identity, location and ethnic or religious
+affiliations should not be required information to access learning resources.   
+6. How can teachers support children to learn if schools are closed?
+Teachers across the globe, in addition to engaging with digital learning platforms,
+are setting up monitoring systems with children, including WhatsApp groups and Skype
+calls. Some teachers may also choose to organise small groups to remotely check children’s
+homework and assign new activities.
+STORY IDEAS
+Apart from these angles, journalists may also focus on
+1.	 In-depth reports on a specific response to social problems caused by COVID-19
+2.	 An exploration of how the response is implemented, and how it works
+3.	 An examination of the evidence, both qualitative and quantitative, of what is known
+so far about the effectiveness of the response
+4.	 Explaining the caveats and limitations of the response
+A handbook for journalists 15
+Chapter 4
+The ethics and etiquette of
+covering the pandemic
+Reportage on the spread of the Novel Coronavirus can be completely factual, statisticsbased analytical pieces, opinion pieces, human interest stories, or a mix of all these. As with
+reporting of any sort, accuracy should be given prime importance. Along with that, journalists
+have to exercise sensitivity while reporting about ongoing developments and while mentioning
+specific cases. They have to ensure fair and impartial reporting, while respecting the privacy and
+sentiments of individuals, particularly those who have lost loved ones or are facing traumas like
+unemployment, financial insecurity, displacement or neglect.
+Dos & Don’ts for Journalists
+Here are some DOs and DON’Ts on reporting about the Novel Coronavirus
+DOs DON’Ts
+Report about the New Coronavirus disease
+(COVID-19) with the support of facts and
+information from authentic sources.
+Do not attach locations or ethnicity to the
+disease. Remember, viruses don’t target people
+from specific populations, ethnicities, or racial
+backgrounds.
+Use terms like ‘people who have COVID-19’,
+‘people who are being treated for COVID-19’,
+‘people who are recovering from COVID-19’ or
+‘people who died after contracting COVID-19’
+Do not refer to people with the disease as
+‘COVID-19 cases’ or ‘victims’
+Talk of people ‘acquiring’ or ‘contracting’
+COVID-19. 
+Do not talk about people ‘transmitting
+COVID-19’, ‘infecting others’ or ‘spreading
+the virus’ as it implies intentional transmission
+and assigns blame.
+Be accurate about the risks of contracting
+COVID-19; base your work on scientific data
+and latest official health advice.
+Do not repeat or share unconfirmed reports,
+and avoid using hyperbolic language designed
+to generate fear, such as ‘plague’, ‘apocalypse’,
+etc.
+Talk positively and emphasise the importance
+of effective prevention measures, including
+following rules on social distancing, staying
+at home, and frequently washing hands with
+soap and water.
+Do not promote traditional and unscientific
+hygiene practices which can lead to social
+isolation, stigma and discrimination.
+16 Coronavirus Disease (COVID-19) Pandemic
+When interviewing people who are suffering
+due to the pandemic, be respectful of their
+sentiments and emotions.
+Do not add to the trauma of people who are
+already finding it hard to cope, by insisting on
+answers to painful questions, unnecessarily
+exposing their vulnerabilities or rekindling
+grief or anger.
+Stay safe. Take proper precautions while
+covering stories from the field. Practise hand
+hygiene and respiratory hygiene and maintain
+adequate distance from other people.
+Do not expose yourself to the risk of getting
+infected. Don’t shake hands or have physical
+contact while greeting people in the field.
+SAFETY FIRST
+Journalists are expected to report from the frontline during the COVID-19 crisis and are given
+entry into places and situations from where the general public is barred. But this does not mean
+that journalists are invincible. They are responsible for their own safety, their professional
+community and family. Hence they need to take every precaution against an infection.
+Steps to protect yourself from COVID-19
+Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website
+and through your national and local public health authority. Most people who become infected
+experience mild illness and recover, but it can be more severe for others. Take care of your health
+and protect others by doing the following:
+1. Clean your hands often
+•	 Wash your hands often with soap and water for at least 20
+seconds especially after you have been in a public place, or
+after blowing your nose, coughing, or sneezing.
+•		 If soap and water are not readily available, use a hand sanitizer
+that contains at least 60 per cent alcohol. Cover all surfaces of
+your hands and rub them together until they feel dry.
+•		 Avoid touching your eyes, nose, and mouth with unwashed
+hands.
+2. Avoid close contact
+•	 Avoid close contact with people who are sick
+•		 Put  a distance between yourself and other  people  if
+COVID-19 is spreading in your community. This is
+especially important for  people who are at higher risk of
+getting very sick.
+•		 Maintain at least a one-metre (3-foot) distance between
+yourself and anyone who is coughing or sneezing.
+•		 Avoid physical contact while greeting people. You may do namaste, nod or bow. 
+A handbook for journalists 17
+3. Stay home if you’re sick
+•		 Stay home if you are sick, except when you need to access
+medical care
+•		 If you develop symptoms of cough, fever, tiredness and
+difficulty in breathing, contact a doctor immediately.
+4. Cover coughs and sneezes
+•	 Cover your mouth and nose with a tissue when you cough or
+sneeze, or use the inside of your elbow.
+•		 Throw used tissues in the trash.
+•		 Immediately  wash your hands  with soap and water for at
+least 20 seconds. If soap and water are not readily available,
+clean your hands with a hand sanitizer that contains at least 60% alcohol.
+5. Wear a facemask if you are sick
+•	 If you are sick: You should wear a facemask when you are
+around other people (for example, sharing a room or vehicle)
+and before you enter a healthcare provider’s office. If you are
+not able to wear a facemask (for example, because it causes
+trouble breathing), then you should do your best to cover
+your coughs and sneezes, and people who are caring for you
+should wear a facemask if they enter your room. 
+•		 If you are NOT sick: You do not need to wear a facemask unless you are caring for
+someone who is sick (and they are not able to wear a facemask). Facemasks may be
+in short supply and they should be saved for caregivers. You could, however, wear
+home-made cloth face masks that can be reused after they are washed.
+6. Clean and disinfect
+•	 Clean AND disinfect frequently touched surfaces daily. This
+includes tables, doorknobs, light switches, countertops, handles,
+desks, toilets, faucets and sinks, as also microphones, recorders,
+computers, smartphones and telephones.
+•	 If surfaces are dirty, clean them: Use detergent or soap and water
+prior to disinfection.
+IMPORTANT: If you are in or have recently visited (past 14 days) areas where COVID-19 is
+spreading, take steps to quarantine yourself until you are sure that you are
+neither infected nor a carrier.
+18 Coronavirus Disease (COVID-19) Pandemic
+Chapter 5
+Some reliable sources of
+information
+1. World Health Organization COVID-19 - https://www.who.int/emergencies/diseases/
+novel-coronavirus-2019
+2. Ministry of Health and Family Welfare, Govt. of India - https://www.mohfw.gov.in
+3. Tamil Nadu Government - www.stopcoronatn.in
+4. The Lancet - resource page: https://www.thelancet.com/coronavirus
+5. CDC site - https://www.cdc.gov/coronavirus/2019-ncov/index.html
+6. UNDP coronavirus updates - https://www.undp.org/content/undp/en/home/covid-19-
+pandemic-response.html
+7. Springer Nature research covid resources https://www.springernature.com/gp/researchers/
+campaigns/coronavirus
+8. Indian Scientists’ Response to COVID - https://indscicov.in
+9. ICMR page on COVID-19 - https://www.icmr.nic.in/content/covid-19
+10. UNICEF – www.unicef.org
+A handbook for journalists 19
+Awareness material
+20 Coronavirus Disease (COVID-19) Pandemic
+A handbook for journalists 21
+22 Coronavirus Disease (COVID-19) Pandemic
+UNICEF State Office
+for Tamil Nadu & Kerala
+No. 1, 3rd Cross Street, Raja Garden
+Kottivakkam, Chennai - 600041
+E-mail: suroy@unicef.org
+Press Institute of India
+2nd Main Road, CPT Campus
+Taramani
+Chennai – 600113
+E-mail: editorpiirind@gmail.com
